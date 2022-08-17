@@ -10,7 +10,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <li>
 <a href="https://alyssonmartins96.github.io/HTML-CSS/ex004/"> Executar o exercício 004</a></li>
 <li>
-<a href="https://alyssonmartins96.github.io/HTML-CSS/ex005/"> Executar o exercício 005</a></li>
-<li>
 <a href="https://alyssonmartins96.github.io/HTML-CSS/ex006/"> Executar o exercício 006</a></li>
 </ul>
