@@ -14,5 +14,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 <li>
 <a href="https://alyssonmartins96.github.io/HTML-CSS/desafio/"> Executar o desafio</a></li>
 <li>
-<a href="https://alyssonmartins96.github.io/HTML-CSS/desafio/correção/"> Desafio Corrigido</a></li>
+<a href="https://alyssonmartins96.github.io/HTML-CSS/desafio/Correção/"> Desafio Corrigido</a></li>
 </ul>
