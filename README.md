@@ -2,7 +2,7 @@
  Curso de HTML5 - CSS
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
-<ul>
+<ul type="I">
 <li>
 <a href="https://alyssonmartins96.github.io/HTML-CSS/ex002/" target="blank"> Executar o exercício 002</a> </li>
 <li>
