@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'fonte1';
+    src: url('//desafio/desafio-cordel/fontes/Passion_One/PassionOne-Regular.ttf') format('truetype');
+    font-weight: normal
+    
+}
+@font-face {
+    font-family: 'fonte2';
+    src: url('//desafio/desafio-cordel/fontes/Sriracha/Sriracha-Regular.ttf') format('truetype');
+    
+}
+
+
+h1{
+    font-family: 'fonte21';
+    
+}
